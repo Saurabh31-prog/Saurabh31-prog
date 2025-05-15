@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saurabh Mungle</h1>
+<h1 align="center">Hi, I'm Saurabh Mungle</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh31-prog" alt="saurabh31-prog" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh31-prog&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh31-prog" /> </p>
 
 <p align="left"> <a href="https://twitter.com/munglesaurabh" target="blank"><img src="https://img.shields.io/twitter/follow/munglesaurabh?logo=twitter&style=for-the-badge" alt="munglesaurabh" /></a> </p>
 
@@ -10,7 +10,12 @@
 <a href="https://twitter.com/munglesaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munglesaurabh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabhmungle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabhmungle/" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabhmungle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhmungle_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wasupsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wasupsaurabh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/singularity_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="singularity_00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@munglesaurabh721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@munglesaurabh721" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/i_am_mortal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="i_am_mortal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saurabhmungle03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhmungle03" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@saurabhmungle2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saurabhmungle2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/saurabh_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabh_31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
